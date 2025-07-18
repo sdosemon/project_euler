@@ -13,7 +13,7 @@ sdosemon's [^1] program code to solve over [] Project Euler math problems.
 Every solved problem has a program written in vanilla Python and occasionally numpy. Thought-process and explanations are given in python notebook tied to script with jupytext. Some solution programs include a detailed mathematical explanation/proof in the comments to justify the code's logic.
 
 ---
-> Portions of this README have been adapted from [Project Euler's official website](https://projecteuler.net).
+Portions of this README have been adapted from [Project Euler's official website](https://projecteuler.net):
 
 ## What is Project Euler?
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
@@ -30,6 +30,6 @@ The problems range in difficulty and for many the experience is inductive chain 
 
 > "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
 
----
+
 
 [^1]: [connect with me](www.linkedin.com/in/sdosemon)
