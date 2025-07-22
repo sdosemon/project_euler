@@ -12,7 +12,7 @@
 
 sdosemon's [^1] program code to solve over [] Project Euler math problems.
 
-Every solved problem has a program written in vanilla Python and occasionally numpy. Thought-process and explanations are given in python notebook connected to script with jupytext. Some solution programs include a detailed mathematical explanation/proof in the notebook to justify the code's logic.
+Every solved problem has a program written in vanilla Python and occasionally numpy. Thought-process and explanations are given in python notebook. [TO DO:] connect to script via jupytext and use pytest to check answer. Some solution programs include a detailed mathematical explanation/proof in the notebook to justify the code's logic.
 
 ---
 Portions of this README have been adapted from [Project Euler's official website](https://projecteuler.net):
